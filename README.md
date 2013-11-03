@@ -8,7 +8,7 @@
    column number,  
    each row of the array  
   
-	Sub array should be in the form of a **rectangle**, as follows:
+	Sub array should be in the form of a **rectangle**, as follows:  
 	![](http://images.cnitblog.com/blog/202788/201309/12233331-bc38dd85b312434f995a59436d8832a7.png)  
    Return 28 in this example.
 3. The array can be **connected vertically**:  
@@ -18,7 +18,7 @@
    or **both**:  
 	`java -jar ArrayMaxSubSum2 /h /v <filename>`
 	`java -jar ArrayMaxSubSum2 /v /h <filename>`
-4. Elements don't need to be in the form of a rectangle, as follows:
+4. Elements don't need to be in the form of a rectangle, as follows:  
 	![](http://images.cnitblog.com/blog/202788/201309/12233333-ef35109aa7e1474d904cf907e49035ca.png)  
    Return 50 in this example.***(Still Unsolved)***
 ## Solution ##
